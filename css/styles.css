@@ -1,8 +1,22 @@
 .column {
-  width: 25%;
+  width: 30%;
+  margin-left: 1%;
   float: left;
 }
 
 img {
   width: 95%;
+  margin: 3%;
+}
+
+.before {
+  background-color: orchid;
+}
+
+.during {
+  background-color: mediumpurple;
+}
+
+.after {
+  background-color: darkviolet;
 }
